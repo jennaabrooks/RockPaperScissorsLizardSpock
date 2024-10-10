@@ -17,6 +17,7 @@ Scissors (purple)
 Lizard (green)
 Spock (blue)
 
+![Rock Paper Scissors Lizard Spock](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg)
 
 
 ## Winning conditions:
